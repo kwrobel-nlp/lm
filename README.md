@@ -37,6 +37,6 @@ ngram -lm language_model -ppl task3_test_segmented.txt -order 5 -unk
 
 Perplexity: 146.7082
 
-Procent nieznanych słów w korpusie testowym: 0.868323449305339%
+Ilość nieznanych słów w stosunku do wszystkich słów (OOV rate) w korpusie testowym: 0.00868323449305339
 
 Model znajduje się pod adresem: http://wierzba.wzks.uj.edu.pl/~kwrobel/LM/lm_o5.gz
